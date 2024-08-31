@@ -1,0 +1,36 @@
+.container {
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  width: 500px;
+  height: 400px;
+  margin: 0 auto;
+}
+.container h1 {
+  text-align: center;
+}
+.loading {
+  color: #007bff;
+  font-size: 18px;
+  margin: 0 auto;
+}
+
+.error {
+  color: #dc3545;
+  font-size: 18px;
+}
+
+.userList {
+  list-style: none;
+  padding: 0;
+}
+
+.userList li {
+  margin-bottom: 10px;
+  padding: 20px 40px;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+}
+
+.userList p {
+  margin: 5px 0;
+}
